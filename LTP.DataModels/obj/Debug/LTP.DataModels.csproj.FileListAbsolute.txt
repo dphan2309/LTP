@@ -1,0 +1,9 @@
+C:\Users\haida\Downloads\LTP-2018-12-18-10-26PM\LTP\LTP.DataModels\bin\Debug\LTP.DataModels.dll
+C:\Users\haida\Downloads\LTP-2018-12-18-10-26PM\LTP\LTP.DataModels\bin\Debug\LTP.DataModels.pdb
+C:\Users\haida\Downloads\LTP-2018-12-18-10-26PM\LTP\LTP.DataModels\obj\Debug\LTP.DataModels.dll
+C:\Users\haida\Downloads\LTP-2018-12-18-10-26PM\LTP\LTP.DataModels\obj\Debug\LTP.DataModels.pdb
+C:\Temp\LTP-2018-12-18-10-26PM\LTP\LTP.DataModels\bin\Debug\LTP.DataModels.dll
+C:\Temp\LTP-2018-12-18-10-26PM\LTP\LTP.DataModels\bin\Debug\LTP.DataModels.pdb
+C:\Temp\LTP-2018-12-18-10-26PM\LTP\LTP.DataModels\obj\Debug\LTP.DataModels.csprojResolveAssemblyReference.cache
+C:\Temp\LTP-2018-12-18-10-26PM\LTP\LTP.DataModels\obj\Debug\LTP.DataModels.dll
+C:\Temp\LTP-2018-12-18-10-26PM\LTP\LTP.DataModels\obj\Debug\LTP.DataModels.pdb
